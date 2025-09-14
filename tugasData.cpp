@@ -76,4 +76,4 @@ int main() {
         cout << "Modus  = " << modus << " (muncul " << freqMax << " kali)\n";
 
     return 0;
-}
+} 
